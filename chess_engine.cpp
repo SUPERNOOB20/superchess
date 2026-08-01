@@ -131,25 +131,4 @@ tile_ID move(Piece* my_piece, tile_ID starting_pos, tile_ID final_pos) {
 
 
 
-
-#include <iostream> 
-#include <typeinfo>
-
-int main() {
-
-    printf("\n");
-
-    unsigned short int foo = 67;
-    auto test = 1UL;
-
-    printf("%s", typeid(test).name());
-    // printf("%s", typeid(foo).name());
-    printf("\n");
-    // printf("%s", typeid(tile_ID).name());
-
-    // std::cout << "hihi";
-
-    printf("\n");
-    printf("\n");
-    return 0;
-}
+int main() { return 0; }
