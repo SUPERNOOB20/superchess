@@ -1,0 +1,11 @@
+Knight legal moves:
+
+array[i+1][j+2]
+array[i+1][j-2]
+array[i-1][j+2]
+array[i-1][j-2]
+
+array[i+1][j+2]
+array[i+1][j-2]
+array[i-1][j+2]
+array[i-1][j-2]
